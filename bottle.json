@@ -1,0 +1,22 @@
+[
+  { "id":1,  "name":"Hydro Flask 32oz","brand":"Hydro Flask","price":39.99,"image":"https://picsum.photos/seed/hydro1/800/600","description":"Double-wall insulated bottle keeps drinks cold for 24 hours and hot for 12 hours." },
+  { "id":2,  "name":"Nalgene Wide Mouth 1L","brand":"Nalgene","price":14.95,"image":"https://picsum.photos/seed/hydro2/800/600","description":"Classic BPA-free plastic bottle with a wide mouth for easy cleaning." },
+  { "id":3,  "name":"CamelBak Eddy+ 25oz","brand":"CamelBak","price":16.00,"image":"https://picsum.photos/seed/hydro3/800/600","description":"Spill-proof water bottle with a flip bite valve and carry handle." },
+  { "id":4,  "name":"Contigo Autoseal Chill 24oz","brand":"Contigo","price":19.99,"image":"https://picsum.photos/seed/hydro4/800/600","description":"Leak-proof stainless steel bottle with AUTOSEAL technology." },
+  { "id":5,  "name":"S'well Stainless Steel 17oz","brand":"S'well","price":35.00,"image":"https://picsum.photos/seed/hydro5/800/600","description":"Triple-layered insulated bottle with elegant design." },
+  { "id":6,  "name":"ThermoFlask 24oz","brand":"ThermoFlask","price":22.95,"image":"https://picsum.photos/seed/hydro6/800/600","description":"Durable bottle with chug and straw lids, keeps drinks cold for 24 hours." },
+  { "id":7,  "name":"Brita Filtering Bottle 26oz","brand":"Brita","price":19.00,"image":"https://picsum.photos/seed/hydro7/800/600","description":"Built-in Brita filter reduces chlorine taste and odor." },
+  { "id":8,  "name":"Takeya Actives 32oz","brand":"Takeya","price":27.99,"image":"https://picsum.photos/seed/hydro8/800/600","description":"Insulated stainless steel bottle with spout lid for easy pouring." },
+  { "id":9,  "name":"Iron Flask Sports 40oz","brand":"Iron Flask","price":29.95,"image":"https://picsum.photos/seed/hydro9/800/600","description":"Metal bottle with three lids and a powder-coated finish." },
+  { "id":10, "name":"Simple Modern Summit 32oz","brand":"Simple Modern","price":24.99,"image":"https://picsum.photos/seed/hydro10/800/600","description":"Stylish bottle with double insulation and multiple color options." },
+  { "id":11, "name":"LifeStraw Go 22oz","brand":"LifeStraw","price":44.95,"image":"https://picsum.photos/seed/hydro11/800/600","description":"Built-in filter removes bacteria and parasites — great for travel." },
+  { "id":12, "name":"Thermos Intak 24oz","brand":"Thermos","price":12.99,"image":"https://picsum.photos/seed/hydro12/800/600","description":"BPA-free plastic hydration bottle with flip-top lid and loop." },
+  { "id":13, "name":"Klean Kanteen Classic 27oz","brand":"Klean Kanteen","price":21.95,"image":"https://picsum.photos/seed/hydro13/800/600","description":"Eco-friendly stainless steel bottle with leak-proof cap." },
+  { "id":14, "name":"Embrava Best Sports Bottle 32oz","brand":"Embrava","price":15.99,"image":"https://picsum.photos/seed/hydro14/800/600","description":"Durable BPA-free plastic bottle with fast-flow lid." },
+  { "id":15, "name":"Zojirushi Stainless Mug 16oz","brand":"Zojirushi","price":29.00,"image":"https://picsum.photos/seed/hydro15/800/600","description":"Compact insulated mug with one-touch open lid." },
+  { "id":16, "name":"Vapur Eclipse 1L","brand":"Vapur","price":11.99,"image":"https://picsum.photos/seed/hydro16/800/600","description":"Foldable lightweight water bottle ideal for travel." },
+  { "id":17, "name":"Bubba Trailblazer 40oz","brand":"Bubba","price":19.95,"image":"https://picsum.photos/seed/hydro17/800/600","description":"Large insulated bottle with handle for easy carrying." },
+  { "id":18, "name":"Ello Syndicate 20oz","brand":"Ello","price":13.00,"image":"https://picsum.photos/seed/hydro18/800/600","description":"Glass water bottle with silicone sleeve and flip lid." },
+  { "id":19, "name":"Takeya Ocean Breeze 40oz","brand":"Takeya","price":31.95,"image":"https://picsum.photos/seed/hydro19/800/600","description":"Extra-large insulated bottle that keeps drinks cold all day." },
+  { "id":20, "name":"HydraPeak Ranger 32oz","brand":"HydraPeak","price":25.00,"image":"https://picsum.photos/seed/hydro20/800/600","description":"Powder-coated insulated stainless steel bottle for hot and cold drinks." }
+]
